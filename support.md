@@ -1,5 +1,6 @@
-Tunnel Ninja App Support
-===============================
+---
+title: Support
+--- 
 
 ### How to contact us
 

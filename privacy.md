@@ -1,5 +1,6 @@
-Tunnel Ninja App Privacy Policy
-===============================
+---
+title: Privacy Policy
+--- 
 
 This privacy policy governs your use of the software application Tunnel Ninja (“Application”) for mobile devices. The Tunnel Ninja Application is designed to help you track tunnel time and skills and view and book Tunnel Ninja events.
 
